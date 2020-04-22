@@ -1,0 +1,5 @@
+Id;UserId;TableId;Date;Total;State;InsertedImport;Rest;ReleasedFeedback;DateSimulated
+0;0;2;17-01-2020 12:00;2.0;Completato;3.0;0.0;true;true
+1;0;1;17-01-2020 12:00;2.0;Completato;0.0;0.0;false;true
+2;0;0;24-01-2020 12:00;6.0;Pagato;14.0;0.0;false;false
+3;0;1;25-01-2020 12:00;9.0;Completato;11.0;0.0;false;true

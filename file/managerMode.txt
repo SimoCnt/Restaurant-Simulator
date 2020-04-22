@@ -1,0 +1,10 @@
+Benvenuto nella Modalità Manager, in questa modalità potrai:
+- Aggiungere dei tavoli al tuo ristorante
+- Creare e modificare il tuo menu
+- Visualizzare la lista dei tuoi clienti
+- Visualizzare la lista degli ordini ricevuti compreso il loro dettaglio
+- Visualizzare la disponibilità dei tavoli per una data specifica
+- Simulare il completamento delle ordinazioni ricevute
+
+
+Prima di cominciare inserisci il nome del tuo ristorante nell'apposito campo.
